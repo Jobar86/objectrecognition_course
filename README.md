@@ -7,4 +7,4 @@
 
 | Topic  |Image   |Description   |
 | ------------ | ------------ | ------------ |
-|  Prerequisites Installation |<img src="https://github.com/Jobar86/objectrecognition_course/blob/main/Tumbnails/Installations.gif" width="300" height="150" />| Installation process of Pyhton, OpenCV and the Pycharm IDE |
+|  Prerequisites Installation |<img src="https://github.com/Jobar86/objectrecognition_course/blob/main/Tumbnails/downloads.gif" width="300" height="150" />| Installation process of Pyhton, OpenCV and the Pycharm IDE |
