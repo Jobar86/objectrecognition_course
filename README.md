@@ -13,8 +13,8 @@
 # Chapters
 
 |Chapter|Topic|Image|Description|
-|----|----|----|----|
-|1| How to Read Image or Video-Webcam| <img src="https://github.com/Jobar86/objectrecognition_course/blob/main/Tumbnails/Chapter1.gif" width="360" height="150" /> | Learn how to read images videos and webcam.  </br> |
+| ------------ | ------------ | ------------ | ------------ |
+|1| How to Read Image or Video-Webcam| <img src="https://github.com/Jobar86/objectrecognition_course/blob/main/Tumbnails/Chapter1.gif" width="300" height="150" /> | Learn how to read images videos and webcam.  </br> |
 |2| 5 Must Know OpenCV Basic Functions| <img src="https://github.com/Jobar86/objectrecognition_course/blob/main/Tumbnails/Chapter2.gif" width="300" height="150" /> |     5 Must know opencv functions for beginners. Gray Scale, Blur, Edge Detection, Dialation and Erosion.  </br> |
 |3| How to Crop and Resize Images| <img src="https://github.com/Jobar86/objectrecognition_course/blob/main/Tumbnails/Chapter3.gif" width="300" height="150" /> |   How to crop and resize and iamge. Resize could be used to scale up or scale down an image where cropping can be used to get a part of the image. </br> |
 |4| How to Draw Shapes and Text| <img src="https://github.com/Jobar86/objectrecognition_course/blob/main/Tumbnails/Chapter4.gif" width="300" height="150" /> |      Learn to create blank images along with how to draw Lines, rectangles, circles and custom text.   </br> |
